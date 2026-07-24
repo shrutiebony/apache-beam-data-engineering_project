@@ -1,5 +1,4 @@
 ## Apache Beam and Data Engineering Projects
-#### Youtube video: https://youtu.be/RZ7ilWy9jm4
 such as Apache Beam, D3.js, and Sweetviz to demonstrate real-world data engineering workflows.
 
 ### Project Overview
